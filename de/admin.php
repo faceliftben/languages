@@ -579,4 +579,13 @@
     'undo_canceled_resp' => 'Die Stornierung wurde rückgängig gemacht, der Plan wurde neu gestartet',
     'panel_login_mess' => 'Etwas ist schief gelaufen, bitte kontaktiere einen Administrator.',
     'default' => 'Default',
+    'punishments' => 'Strafen',
+  'bans' => 'Sperrungen',
+  'no_bans_found' => 'Keine Strafen gefunden',
+  'no_bans_found_desc' => 'Im System nicht keine Sperrungen gefunden',
+  'no_warnings_found' => 'Keine Strafen gefunden',
+  'no_warnings_found_desc' => 'Im System nicht keine Verwarnungen gefunden',
+  'warnings' => 'Verwarnungen',
+  'taxes' => 'Taxes',
+  'disable_debug_mode_immediately_if_your_application' => 'Der Debug-Mode ist aktiviert! Bitte stelle in in der .env aus wenn du er nicht mehr gebraucht wird!'
 );
